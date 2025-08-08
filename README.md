@@ -1,2 +1,6 @@
 # Heart_Condition_Analysis
-Python
+## Objective 
+To analyse the heart condition of the people
+
+## Dataset used
+

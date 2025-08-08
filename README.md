@@ -3,7 +3,7 @@
 To analyse the heart condition of the people
 
 ## Dataset used
-<a href = "https://github.com/rinasingh1/Heart_Condition_Analysis/blob/main/Heart%20Dataset.csv">View Heart Dataset</a> This project is based on 1025
+<a href = "https://github.com/rinasingh1/Heart_Condition_Analysis/blob/main/Heart%20Dataset.csv">View Heart Dataset</a> This project is based on 1025 data points.
 
 ## Project Insights 
 •	More than half of the people have heart disease.
